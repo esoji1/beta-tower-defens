@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Tower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Earth
+  - enemy
+  - Alied units
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Earth
+    uniqueID: 985797681
+    locked: 0
+  - name: landscape
+    uniqueID: 1046779731
+    locked: 0
+  - name: flowers
+    uniqueID: 2742409673
+    locked: 0
+  - name: fence
+    uniqueID: 3476836899
+    locked: 0
+  - name: Player
+    uniqueID: 2438580397
+    locked: 0
+  - name: vegetation
+    uniqueID: 3098089021
+    locked: 0

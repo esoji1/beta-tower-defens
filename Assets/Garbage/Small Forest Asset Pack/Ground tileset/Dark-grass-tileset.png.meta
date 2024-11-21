@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 3ea502a8042601c47b6e5571d5103ca9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark-grass-tileset_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20236a5e967dca6458ea611ed021f253
+      internalID: -1934215769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 292
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26489b2f05ef354485d4ea3ad3ee32e
+      internalID: -415922899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 298
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb280bf39e3c5e840acb19d805afe254
+      internalID: -1348443814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 298
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f322e11f8154a409f4d393af12fb7d
+      internalID: 68700043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 298
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261ae4f9a42ecd40899e835fe2038ca
+      internalID: -1880009570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d817b0762fbe3ab4e9ecb39d3b3416cf
+      internalID: 24359102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 301
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca42d7a3cbedbd04b8c90f3a2d29b5dc
+      internalID: -140029603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd5e0ec51915148a5231268c0b516c
+      internalID: 762174774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79545b4984029a0429af9424768b3e13
+      internalID: 1629500150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 258
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35f0ef15e59fa448b530cfc531dacb3
+      internalID: -871082686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_10
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 264
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e17b8665a74b49bf159921654c80b
+      internalID: -1152431977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 264
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e514dba305948409c6c50e6e35ffb7
+      internalID: -145350858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 264
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dd75548ab2b6e4b91b3406f9aa3c75
+      internalID: -699379608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_13
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95147a3ec6a17774a88194e1a58d5cc3
+      internalID: -1488596471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 254
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbb94b992de056409bb3edcacf1b68b
+      internalID: 425974500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a428f6a827c8945b3ad695a62c06b8
+      internalID: 371690181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3652af02ad5d4324eba41295e4265794
+      internalID: 763843605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821bcc231c7de9649849369b618a6ce1
+      internalID: -453152742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 198
+        width: 9
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b369a5a3957ed458a9a1f412d286ad
+      internalID: 2015274363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 198
+        width: 9
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9290cc856020c439cc06642c6acbc8
+      internalID: 293232919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_20
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 216
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89d2ae71584d7049a664bd094ef0209
+      internalID: -1411058225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_21
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 216
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f693f360845f2bc48bef8db47499c561
+      internalID: 1620687020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_22
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 216
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247aca218d546224ab297be4c719ef35
+      internalID: -458758692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 194
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1067725356f5f7341bf2e59b22d9606f
+      internalID: -1534796153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 194
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb131e53e0bfa2041982792278cfbd4d
+      internalID: -751429957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_25
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 164
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5b745b44a1785419b2133651ed147f
+      internalID: -50524396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 164
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea950203942a7d43933158760485708
+      internalID: -332996481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 164
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a6a60a3695ab946960f80907670af4
+      internalID: -1551735348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_28
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 194
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef003ac6cbac9564e9daa5dbd65b5428
+      internalID: 556355825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 195
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b141ac69e08f89442854f22750b72f69
+      internalID: 1785003414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_30
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 194
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e925547a76e7a1147a5532aa5ce5f9c6
+      internalID: -79115897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 160
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d125795c2e0b40830f193284abda4
+      internalID: -2037147920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_32
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 160
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11a70a01b89f874a98cb07382ea9f00
+      internalID: -1994969519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_33
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ed7039d4e5bab4d932fcb5782bdcb3
+      internalID: -393245665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_34
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 143
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8009c97470f9a438c5ead418f8d198
+      internalID: -1119556999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_35
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 143
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0ef5318010202478bc0553f582da5b
+      internalID: -1243517758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_36
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc8d470ada6b7047a61b1f9eba64673
+      internalID: -823990540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_37
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b4e63ceff0f90439d6260e447703fb
+      internalID: 622460944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_38
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7a4f21d43b0c944bcb3074907bccdf
+      internalID: -1122380919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_39
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 131
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9268b64866bf7c24cae3d00906ac6b23
+      internalID: 1243819231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_40
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80722e6e29f8bec458c8b5a38ca1f446
+      internalID: 1809189507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_41
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 139
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8876085457155b46985cbd90fb2bb77
+      internalID: -588731432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 87
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784be65f5508f3b4aa06e2f81c5b4da8
+      internalID: 280325293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 119
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece556953467ca84f9ef16a1489906b1
+      internalID: -822714030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_44
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 87
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd668d8f9170482469255feb518e5009
+      internalID: 1917739885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_45
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea62ec9ede6e85b4786dbfe59bf8c920
+      internalID: -1259563743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_46
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c7d40f4276e1b4fb14dc66c406eec1
+      internalID: -132116360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_47
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4bb0c9c8a5aba4389c0e49d3773c05
+      internalID: 1878741517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_48
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 94
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553c663fc9397f4ea0871f5f5a570cd
+      internalID: 1570141015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_49
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 87
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf0872ab75ee5144b39064a638d01a1
+      internalID: -271659075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 87
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd0a6d50f5fab04eabceeed852768d9
+      internalID: 326771964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_51
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8bbe63373c8374491072d5f7e3471a
+      internalID: 1077006398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_52
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a1da3417a6a8b44b083904b034ee08
+      internalID: 1587654110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_53
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 53
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8648c5da647f6c4898d45fece0f77b9
+      internalID: -1659066871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_54
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 53
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72720f951f7ec34b9ec40394347768d
+      internalID: -114167727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256c343b0dac1049adb3ff0c7c953bd
+      internalID: 1759638631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37574c80434d295478a652b0a63c381c
+      internalID: -980765334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c85d861afc1945bb9dee26c8022a0
+      internalID: -1327887826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_58
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 31
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdaf1128ed35d3f4aa1fb79ec656ea7d
+      internalID: -1332512756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark-grass-tileset_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 10
+        width: 64
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c842d17a84e0446a0d96a716832688
+      internalID: -1538627697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dark-grass-tileset_0: -1934215769
+      Dark-grass-tileset_1: -415922899
+      Dark-grass-tileset_10: -1152431977
+      Dark-grass-tileset_11: -145350858
+      Dark-grass-tileset_12: -699379608
+      Dark-grass-tileset_13: -1488596471
+      Dark-grass-tileset_14: 425974500
+      Dark-grass-tileset_15: 371690181
+      Dark-grass-tileset_16: 763843605
+      Dark-grass-tileset_17: -453152742
+      Dark-grass-tileset_18: 2015274363
+      Dark-grass-tileset_19: 293232919
+      Dark-grass-tileset_2: -1348443814
+      Dark-grass-tileset_20: -1411058225
+      Dark-grass-tileset_21: 1620687020
+      Dark-grass-tileset_22: -458758692
+      Dark-grass-tileset_23: -1534796153
+      Dark-grass-tileset_24: -751429957
+      Dark-grass-tileset_25: -50524396
+      Dark-grass-tileset_26: -332996481
+      Dark-grass-tileset_27: -1551735348
+      Dark-grass-tileset_28: 556355825
+      Dark-grass-tileset_29: 1785003414
+      Dark-grass-tileset_3: 68700043
+      Dark-grass-tileset_30: -79115897
+      Dark-grass-tileset_31: -2037147920
+      Dark-grass-tileset_32: -1994969519
+      Dark-grass-tileset_33: -393245665
+      Dark-grass-tileset_34: -1119556999
+      Dark-grass-tileset_35: -1243517758
+      Dark-grass-tileset_36: -823990540
+      Dark-grass-tileset_37: 622460944
+      Dark-grass-tileset_38: -1122380919
+      Dark-grass-tileset_39: 1243819231
+      Dark-grass-tileset_4: -1880009570
+      Dark-grass-tileset_40: 1809189507
+      Dark-grass-tileset_41: -588731432
+      Dark-grass-tileset_42: 280325293
+      Dark-grass-tileset_43: -822714030
+      Dark-grass-tileset_44: 1917739885
+      Dark-grass-tileset_45: -1259563743
+      Dark-grass-tileset_46: -132116360
+      Dark-grass-tileset_47: 1878741517
+      Dark-grass-tileset_48: 1570141015
+      Dark-grass-tileset_49: -271659075
+      Dark-grass-tileset_5: 24359102
+      Dark-grass-tileset_50: 326771964
+      Dark-grass-tileset_51: 1077006398
+      Dark-grass-tileset_52: 1587654110
+      Dark-grass-tileset_53: -1659066871
+      Dark-grass-tileset_54: -114167727
+      Dark-grass-tileset_55: 1759638631
+      Dark-grass-tileset_56: -980765334
+      Dark-grass-tileset_57: -1327887826
+      Dark-grass-tileset_58: -1332512756
+      Dark-grass-tileset_59: -1538627697
+      Dark-grass-tileset_6: -140029603
+      Dark-grass-tileset_7: 762174774
+      Dark-grass-tileset_8: 1629500150
+      Dark-grass-tileset_9: -871082686
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

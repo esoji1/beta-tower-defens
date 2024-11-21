@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 945586807ea172c46b4e826efbd5fedb, type: 3}
+  m_Name: MageConfig
+  m_EditorClassIdentifier: 
+  _radius: 3
+  _timeBetweenShots: 2
+  _magePrefab: {fileID: 8339010450780791140, guid: a05ec319b48b5d34b9973431c7bb04a2, type: 3}
